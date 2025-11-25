@@ -52,7 +52,7 @@
 
 
 ## Пет-проекты  
-- [API тестирование веб-сайта Re:Premium](https://github.com/nlaptevqa/re-premium-test-website)  
+- [Баг-репорты в Jira](https://github.com/nlaptevqa/re-premium-test-website)  
   
 
 <br/>  
